@@ -21,7 +21,7 @@ This repository contains an automated test suite for Optibet.lv, built using **P
     * **Windows:**
         ```bash
         python -m venv venv
-        .env\Scriptsctivate
+        .\venv\Scripts\Activate
         ```
     
 
@@ -119,5 +119,6 @@ These specific scenarios were selected because they cover critical features and 
 If more time were available, the following enhancements would be added:
 * **CI/CD Pipeline:** A GitHub Actions workflow to run these tests automatically on every Pull Request.
 * **Visual Regression Testing:** Use Playwright's visual comparison tools to detect layout shifts or broken CSS that functional tests might miss.
+
 
 
