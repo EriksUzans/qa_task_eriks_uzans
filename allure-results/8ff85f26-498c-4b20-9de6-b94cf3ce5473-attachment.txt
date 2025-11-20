@@ -1,0 +1,5 @@
+STEP: HomePage initialized
+STEP: Navigated to https://www.optibet.lv/
+STEP: Header elements verified
+STEP: Switched language to EN
+STEP: Verified active language is EN

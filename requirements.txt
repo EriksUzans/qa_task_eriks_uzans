@@ -1,0 +1,8 @@
+pytest
+pytest-playwright
+allure-pytest
+pytest-base-url
+python-slugify
+playwright-stealth
+faker
+pytest-xdist
