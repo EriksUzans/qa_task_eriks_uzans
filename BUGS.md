@@ -14,7 +14,7 @@ There is a large, unneeded vertical gap between the "I agree with your Privacy P
 A significant vertical space exists between the two checkboxes.
 
 **Expected Result:**
-The checkboxes should be grouped closer together with standard vertical spacing (e.g., 8px-16px) to keep the form compact.
+The checkboxes should be grouped closer together  to keep the form compact.
 
 **Severity:** Low (Cosmetic)
 **Priority:** Low
@@ -68,6 +68,7 @@ The modal border/corner should be clean without unexplained visual artifacts.
 **Priority:** Low
 
 <img width="407" height="440" alt="image" src="https://github.com/user-attachments/assets/189a1534-cd10-4b52-b553-1379b281cb1b" />
+
 
 
 
