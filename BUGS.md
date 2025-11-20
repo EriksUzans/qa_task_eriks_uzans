@@ -7,8 +7,8 @@ There is a large, unneeded vertical gap between the "I agree with your Privacy P
 
 **Steps to reproduce:**
 1. Navigate to `https://www.optibet.lv/`.
-2. Open the "Help" or "Contact Us" modal.
-3. Observe the layout of the checkboxes at the bottom of the form.
+2. Click on the "?" at the top right corner
+3. Click on "reach us via contact form" and "let's have a chat"
 
 **Actual Result:**
 A significant vertical space exists between the two checkboxes.
@@ -32,9 +32,8 @@ A vertical scrollbar is displayed on the right side of the Contact/Help modal ev
 
 **Steps to reproduce:**
 1. Navigate to `https://www.optibet.lv/`.
-2. Open the "Help" or "Contact Us" modal.
-3. Observe the right edge of the modal window.
-
+2. Click on the "?" at the top right corner
+3. Click on "reach us via contact form"
 **Actual Result:**
 A gray vertical scrollbar track is visible.
 
@@ -56,8 +55,8 @@ There are three small dots (`...`) visible at the very bottom right corner of th
 
 **Steps to reproduce:**
 1. Navigate to `https://www.optibet.lv/`.
-2. Open the "Help" or "Contact Us" modal.
-3. Look closely at the bottom right corner of the modal container.
+2. Click on the "?" at the top right corner
+3. Click on "reach us via contact form" and "let's have a chat"
 
 **Actual Result:**
 Three small dots are visible in the corner.
@@ -69,6 +68,7 @@ The modal border/corner should be clean without unexplained visual artifacts.
 **Priority:** Low
 
 <img width="407" height="440" alt="image" src="https://github.com/user-attachments/assets/189a1534-cd10-4b52-b553-1379b281cb1b" />
+
 
 
 
