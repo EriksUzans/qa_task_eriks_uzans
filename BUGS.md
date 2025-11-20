@@ -18,6 +18,7 @@ The checkboxes should be grouped closer together with standard vertical spacing 
 
 **Severity:** Low (Cosmetic)
 **Priority:** Low
+<img width="406" height="440" alt="image" src="https://github.com/user-attachments/assets/db5e0b59-a5f5-4f9a-935a-814829682511" />
 
 ---
 
@@ -60,3 +61,4 @@ The modal border/corner should be clean without unexplained visual artifacts.
 
 **Severity:** Low (Cosmetic)
 **Priority:** Low
+
