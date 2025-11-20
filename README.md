@@ -107,7 +107,7 @@ The following scenarios from the assignment have been implemented:
 
 ---
 
-## 🧠 Test Rationale
+##  Test Rationale
 
 ### Why these scenarios?
 These specific scenarios were selected because they cover critical features and the most high-risk areas of the application:
@@ -119,4 +119,5 @@ These specific scenarios were selected because they cover critical features and 
 If more time were available, the following enhancements would be added:
 * **CI/CD Pipeline:** A GitHub Actions workflow to run these tests automatically on every Pull Request.
 * **Visual Regression Testing:** Use Playwright's visual comparison tools to detect layout shifts or broken CSS that functional tests might miss.
+
 
