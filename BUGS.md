@@ -20,7 +20,8 @@ The checkboxes should be grouped closer together with standard vertical spacing 
 **Priority:** Low
 
 
-<img width="406" height="440" alt="image" src="https://github.com/user-attachments/assets/db5e0b59-a5f5-4f9a-935a-814829682511" />
+<img width="406" height="440" alt="image" src="https://github.com/user-attachments/assets/4f40857b-9fe2-4046-b21f-24e9b81404e9" />
+
 
 ---
 
@@ -43,6 +44,9 @@ The modal should auto-expand to fit its content without a scrollbar, or the scro
 **Severity:** Low (Cosmetic/UX)
 **Priority:** Low
 
+<img width="407" height="440" alt="image" src="https://github.com/user-attachments/assets/fdab312c-86ee-424b-92d4-9c09747d0379" />
+
+
 ---
 
 ## Issue 3: Visual Artifact (Three Dots) at Bottom Right of Modal
@@ -63,5 +67,8 @@ The modal border/corner should be clean without unexplained visual artifacts.
 
 **Severity:** Low (Cosmetic)
 **Priority:** Low
+
+<img width="407" height="440" alt="image" src="https://github.com/user-attachments/assets/189a1534-cd10-4b52-b553-1379b281cb1b" />
+
 
 
