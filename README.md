@@ -98,8 +98,8 @@ The following scenarios from the assignment have been implemented:
 | :--- | :--- | :--- | :--- |
 | **2.1 Header & Language** | Verify logo visibility, menu items, and language switching (RU ↔ LV ↔ EN). Checks URL updates and active state. | 
 | **2.2 Promotions** | Verify promotions list loads, filters work (Casino/Sports), and cards contain titles/links. Checks detailed page opens correctly. | ✅ Covered | Handles async loading of cards. Includes detailed verification of internal page elements (`.main-title-OB`). |
-| **2.3 Registration (Negative)** | Validate form behavior with invalid inputs: Invalid Email, Weak Password, Empty Fields. | Uses `pytest.mark.parametrize` . Checks for specific error messages and field validation states. |
-| **2.4 Login (Negative)** | Verify login fails  with non-existent credentials. | Checks for the specific error message "The username or password is incorrect". |
+| **2.3 Registration (Negative)** | Validate form behavior with invalid inputs: Invalid Email, Weak Password, Empty Fields.|✅ Covered  | Uses `pytest.mark.parametrize` . Checks for specific error messages and field validation states. |
+| **2.4 Login (Negative)** | Verify login fails  with non-existent credentials. |✅ Covered  | Checks for the specific error message "The username or password is incorrect". |
 
 ### ⚠️ Limitations
 * **CAPTCHA / Bot Detection:** Automated login/registration tests on public production sites often trigger CAPTCHA or Cloudflare protections. This suite uses `playwright-stealth` and `slow_mo` to mitigate this.
@@ -119,3 +119,4 @@ These specific scenarios were selected because they cover critical features and 
 If more time were available, the following enhancements would be added:
 * **CI/CD Pipeline:** A GitHub Actions workflow to run these tests automatically on every Pull Request.
 * **Visual Regression Testing:** Use Playwright's visual comparison tools to detect layout shifts or broken CSS that functional tests might miss.
+
